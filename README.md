@@ -1,4 +1,4 @@
-# Claude Code Hooks Examples
+# Dead Simple Claude Code Hooks Examples
 
 Get notified when Claude Code finishes a task. This repo contains example hooks you can use with [Claude Code](https://claude.ai/code).
 
